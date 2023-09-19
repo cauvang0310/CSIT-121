@@ -1,0 +1,49 @@
+/* Apply styles to the body element */
+body {
+    background-color: #fff8f0;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    padding: 0;
+}
+
+p {
+    color: #572000;
+}
+
+/* Apply styles to the h1 element */
+h1 {
+    text-align: center;
+    color: #ff6600  ;
+    font-family: "Arial Black", sans-serif;
+    margin-top: 20px;
+}
+
+/* Apply styles to the h3 element */
+h3 {
+    color: #b14006;
+    font-family: "Times New Roman", serif;
+}
+
+/* Apply styles to all paragraphs */
+h4 {
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    color: #572000;
+}
+
+/* Apply styles to list items (li) */
+li {
+    margin-left: 20px;
+}
+
+/* Style the links in the unordered list */
+ul a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+/* Change link color on hover */
+ul a:hover {
+    text-decoration: underline;
+}
